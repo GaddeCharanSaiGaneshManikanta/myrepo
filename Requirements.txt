@@ -1,0 +1,13 @@
+sorting-of-specific-tweets
+
+Softwares:
+VS Code
+Python3
+Packages:
+streamlit
+tweepy
+textblob
+matplotlib
+Process:
+Clone the repo
+streamlit run app.py
