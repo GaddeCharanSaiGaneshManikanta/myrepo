@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Traces count="1" totalduration="114300" version="9.9.9.9" designHeigt="540" aspect="169" designWidth="960" totalframe="2287" backColor="#000000">
+ <Tracks>
+  <Track index="0" type="3" traceId="trace_audio"/>
+  <Track index="1" type="7" traceId="trace_trans"/>
+  <Track index="2" type="0" traceId="trace_main"/>
+  <Track index="3" type="1" traceId="trace_pip"/>
+  <Track index="4" type="2" traceId="trace_text"/>
+ </Tracks>
+ <Trace index="0" type="3" traceId="trace_audio" link="1" mute="0" duration="0" hide="0"/>
+ <Trace index="0" type="7" traceId="trace_trans" link="1" mute="0" duration="0" hide="0"/>
+ <Trace index="0" type="0" traceId="trace_main" link="1" mute="0" duration="114371" hide="0">
+  <ItemData motionXmlFile="" org_file="C:\Users\DELL\OneDrive\Documents\VideoWinSoft\Recorder\2023-07-20 17-53-01.mkv" crop_bottom="0" filter_para_duration="3" fadeInTimeVideo="0" timelineLayer="0" isTimeCode="0" assReadOnly="0" width="1364" montionDur="3000" crop_left="0" lut_alpha="1" lut_id="" bPitch="0" id="item_-1_699b35f0fc5840eeb2315689ef37ee1a" filepath="C:\Users\DELL\OneDrive\Documents\VideoWinSoft\Recorder\2023-07-20 17-53-01.mkv" url="" itemtype="0" montionId="" temperature="0" volume="100" effectId="" srtPos="0" srtFontSize="30" mosic_bottom="0" iRotate="0" rotate="" removed_lut_id="" timestamp="2023-07-20 17:57:55" data_type="0" bReversPlayer="0" height="768" edit_anchorx="0" edit_posx="0.5" intensity="0" remove_ask="0" bRemoveNoise="0" groupId="" mosic_blurAmount="30" category="record_video" f_isBlod="0" fadeOutTime="0" srtFontFamily="Microsoft YaHei" useRealTime="1" f_fontName="Microsoft YaHei" staturation="0" pitchValue="0" removeAudio="0" tint="0" max_duration="114371" srtFile="" bFadeout="0" hub="0" edit_anchory="0" chromaKeyColor="#00ff00" flag_special="0" timeCodeFormat="yyyy-MM-dd" removeNoise="0" speed="1" bRepeat="1" bFadein="0" fadeOutTimeVideo="0" title="2023-07-20 17-53-01.MKV" org_noise_full_file="C:\Users\DELL\OneDrive\Documents\VideoWinSoft\Recorder\2023-07-20 17-53-01.mkv" f_fontSize="40" transparence="100" transMode="-1" f_isUnderLine="0" f_trans="0" error_code="0" fadeInTime="0" edit_scaley="1" assFile="" enable_mosic="0" mosic_left="0" edit_rotation="0" crop_top="0" isArchieve="0" hasAudio="1" need_file="1" edit_unicscale="1" assBackVideo="" lowpass="-50" mosic_right="0" f_fontColor="#ffffff" tips="" timelinePostion="0" bRemoveOrignal="0" removeVideo="0" starttime="0" webmSpec="0" f_isDelLine="0" timeCodeLayout="3" contrast="0" cropBorderColor="#000000" itemid="" crop_right="0" srtFontColor="#ffffff" edit_posy="0.5" chromaKeyTrans="100" transIndexKey="0" highpass="15" brightness="0" isRecordWave="0" bKeepRatio="0" lut_file="" edit_scalex="1" stabilization="0" chroma_enable="0" thumbnail_file="C:\Users\DELL\OneDrive\Documents\VideoWinSoft\MovieCache\thum\thum_BEC469BE5BDF2FE31657271FA2DC759E_1.png" f_isItalic="0" sharp="0" tagId="" mosic_top="0" bIncludeAutoRotate="0" endtime="114371" bIsNewAss="0" timeCodeTrans="0" removed_effect_id="">
+   <MediaData file_size="71505353" fps="30" pixel_ratio="1" error_type="0" display_rati="1" height="768" width="1364" audio_stream_index="0" duration="114.371" audio_timebase="0.001" has_single_image="0" sample_rate="44100" channel_layout="3" vcodec="h264" audio_bit_rate="128000" video_stream_index="0" audio_length="0" video_timebase="0.001" has_video="1" acodec="aac" video_length="3431" interlaced_frame="0" top_field_first="1" pixel_format="1" has_audio="1" channels="2" irotate="0" video_bit_rate="5001860"/>
+   <AssContent><![CDATA[]]></AssContent>
+  </ItemData>
+ </Trace>
+ <Trace index="0" type="1" traceId="trace_pip" link="1" mute="0" duration="0" hide="0"/>
+ <Trace index="0" type="2" traceId="trace_text" link="1" mute="0" duration="0" hide="0"/>
+</Traces>
