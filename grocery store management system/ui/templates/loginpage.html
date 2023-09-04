@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Login form</title>
+        <link rel="stylesheet" href="{{url_for('static',filename='css/loginpage.css')}}">
+    </head>
+
+    <body>
+        <div class="wrapper">
+            <form class="action" action="/loginForm" method="post">
+                <h1>Login</h1>
+                <div class="input-box">
+                    <input type="text" name="username" placeholder="username" required>
+    
+                </div>
+                <div class="input-box">
+                    <input type="password" name="password" placeholder="password" required>
+                </div>
+                <div class="remember-forgot">
+                    <button type="submit" class="btn">Login</button>
+                </div>
+                <div class="register-link">
+                    <p>Don't have an account? <a href="/">Register</a></p>
+    
+                </div>
+                <span style="color:red">{{err}}</span> <br/>
+                <span style="color:green">{{res}}</span>
+            </form>
+        </div>
+    </body>
+
+</html>

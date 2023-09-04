@@ -1,0 +1,16 @@
+This is the about managing the grocery store in a simpler way.
+
+contents in  the webpage:
+list of the products with the customer name and mobile number total cost of the product.
+there will be a newtab for creating a new product.
+
+Requirements for the web application:
+
+for front-end:
+    1.Html
+        2.css
+            3.js
+for back-end:
+    1.python
+        Databases:
+            1.Mongodb
